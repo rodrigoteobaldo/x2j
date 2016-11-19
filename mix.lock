@@ -1,0 +1,2 @@
+%{"erlsom": {:hex, :erlsom, "1.4.1", "53dbacf35adfea6f0714fd0e4a7b0720d495e88c5e24e12c5dc88c7b62bd3e49", [:rebar3], []},
+  "exjson": {:hex, :exjson, "0.6.0", "6aa374ff30e5626d3d6ed18b1b829f8ffa40a7345a353f3e1e769f9917f5a704", [:mix], []}}
